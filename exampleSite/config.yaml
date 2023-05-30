@@ -74,7 +74,7 @@ params:
 
   theme:
     # disableThemeToggle: true
-    defaultTheme: "light" # dark
+    defaultTheme: "dark" # dark
 
   font:
     fontSize: 1rem # default: 1rem
@@ -104,7 +104,7 @@ params:
     align: ms-auto # Left: ms-auto | center: mx-auto | right: me-auto | Default: ms-auto
     # brandLogo: "/logo.png" # Logo for the brand | default is the favicon variable
     showBrandLogo: false # Show brand logo in nav bar | default is true
-    brandName: "FajarWG" # Brand name for the brand | default is the title variable
+    brandName: "Portofolio" # Brand name for the brand | default is the title variable
     disableSearch: true
     # searchPlaceholder: "Search"
     menus:
@@ -129,7 +129,7 @@ params:
     button:
       enable: true
       name: "Resume"
-      url: "https://docs.google.com/document/d/1WFlDdPnylSVZDpgi4xPT2YcQ7TggHizy/edit?usp=sharing&ouid=107900578880527002651&rtpof=true&sd=true"
+      url: "https://drive.google.com/file/d/1cVjSy0-VRRFnYYZYK30B82dpOU9C_bSX/view?usp=sharing"
       download: true
       newPage: true
     socialLinks:
