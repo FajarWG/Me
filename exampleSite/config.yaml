@@ -300,22 +300,22 @@ params:
     enable: true
     # title: "Custom Name"
     items:
-    - title: Tixmov 
-        content: Fullstack Web Application for buy ticket movie online. This website is designed to help users buy movie tickets online.
-        image: /images/tixmov.png
-        featured:
-          name: Demo
-          link: http://tixmov.fajarwg.me/
-        badges:
-          - "NextJS"
-          - "Typescript"
-          - "Tailwind CSS"
-          - "Prisma ORM"
-          - "MongoDB"
-        links:
-          - icon: fab fa-github
-            url: https://github.com/FajarWG/TixMov-NexjsTS
-            newPage: true
+      - title: Tixmov 
+          content: Fullstack Web Application for buy ticket movie online. This website is designed to help users buy movie tickets online.
+          image: /images/tixmov.png
+          featured:
+            name: Demo
+            link: http://tixmov.fajarwg.me/
+          badges:
+            - "NextJS"
+            - "Typescript"
+            - "Tailwind CSS"
+            - "Prisma ORM"
+            - "MongoDB"
+          links:
+            - icon: fab fa-github
+              url: https://github.com/FajarWG/TixMov-NexjsTS
+              newPage: true
 
       - title: My Codelabs
         content: My-Codelabs website is a digital platform designed to help the Codelabs Division at Universitas Komputer Indonesia (UNIKOM) manage their activities. 
