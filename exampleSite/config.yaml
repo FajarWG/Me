@@ -301,7 +301,7 @@ params:
     # title: "Custom Name"
     items:
     - title: Tixmov 
-        content: Fullstack Web Application for buy ticket movie online. This website is designed to help users buy movie tickets online. It includes features such as searching for movies, viewing movie details, and purchasing tickets. These features assist users in purchasing movie tickets efficiently and effectively.
+        content: Fullstack Web Application for buy ticket movie online. This website is designed to help users buy movie tickets online.
         image: /images/tixmov.png
         featured:
           name: Demo
@@ -312,8 +312,13 @@ params:
           - "Tailwind CSS"
           - "Prisma ORM"
           - "MongoDB"
+        links:
+          - icon: fab fa-github
+            url: https://github.com/FajarWG/TixMov-NexjsTS
+            newPage: true
+
       - title: My Codelabs
-        content: My-Codelabs website is a digital platform designed to help the Codelabs Division at Universitas Komputer Indonesia (UNIKOM) manage their activities. It includes features such as managing division membership, an online attendance system, weekly report data collection, member evaluation, and more. These features assist the Codelabs Division in organizing their activities efficiently and effectively.
+        content: My-Codelabs website is a digital platform designed to help the Codelabs Division at Universitas Komputer Indonesia (UNIKOM) manage their activities. 
         image: /images/mycodelabs.png
         featured:
           name: Demo
@@ -336,7 +341,7 @@ params:
           #   newPage: true
 
       - title: Web Codelabs
-        content: Web-Codelabs is a website designed as a landing page for the Codelabs Division at Universitas Komputer Indonesia (UNIKOM). It provides information about the division, their activities, and their members. The website also includes a registration form for those who are interested in becoming members of the division. 
+        content: Web-Codelabs is a website designed as a landing page for the Codelabs Division at Universitas Komputer Indonesia (UNIKOM). It provides information about the division, their activities, and their members.
         image: /images/webcodelabs.png
         featured:
           name: Demo
@@ -352,7 +357,7 @@ params:
         #     url: https://github.com/gurusabarish/converter
 
       - title: Web-Bitlabs
-        content: Bit-Labs is a website that provides the latest cryptocurrency prices. It allows users to track the current prices of various cryptocurrencies in real-time, such as Bitcoin, Ethereum, and Litecoin. The website also features a chart that displays the historical price trends of each cryptocurrency. Users can access this information to make informed decisions about buying or selling cryptocurrency.
+        content: Bit-Labs is a website that provides the latest cryptocurrency prices. It allows users to track the current prices of various cryptocurrencies in real-time, such as Bitcoin, Ethereum, and Litecoin. 
         image: /images/bitlabs.png
         featured:
           name: Demo
@@ -365,11 +370,11 @@ params:
           - Webpack
         links:
           - icon: fab fa-github
-            url: https://github.com/gurusabarish/HugoProfileV2
+            url: https://github.com/FajarWG/Web-Bitlabs
             newPage: true
 
       - title: SineasMov
-        content: SineasMov is a website that offers both paid and free online movie streaming services. Users can browse through a vast collection of movies in various genres, including drama, comedy, action, and more. The website provides both options for users who prefer to watch movies for free or rent/buy movies for a fee. For paid services, users can make payments through various payment options available on the website. The website also features a search bar for users to find their desired movies quickly.
+        content: SineasMov is a website that offers both paid and free online movie streaming services. Users can browse through a vast collection of movies in various genres, including drama, comedy, action, and more.
         image: /images/sineasmov.png
         featured:
           name: Demo
