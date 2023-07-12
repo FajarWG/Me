@@ -222,10 +222,8 @@ params:
       #     url: "https://example.com"
       #   content: |
       #     I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
-
       #     - Lead backend developer for a product.
       #     - Created a frontend design for a product.
-
       - job: "Product Designer"
         # company: "Google"
         # companyUrl: "https://example.com"
@@ -255,7 +253,7 @@ params:
       #   # GPA: "3.9 out of 5.0"
       #   content: |-
       #     Extracurricular Activities
-      #       - Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+      #       - Lorem ipsum dolor sit amet consectetur adipisicing elit.
       #   featuredLink:
       #     enable: true
       #     name: "My academic record"
@@ -290,7 +288,6 @@ params:
         content: It is a game development and innovation competition without any theme restrictions. This competition is aimed at indie game developers in Indonesia who have a strong determination in developing the video game industry in Indonesia.
         url: "https://verify.compfest.id/cf-2022-364f6596-5ffc-47e5-bcc5-cd461b971f89"
 
-
       - title: Learn to Create Back-End Applications for Beginners with Cloudeka (Dicoding)
         content: Learn to make RESTful APIs, from HTTP servers, routing, to building Back-End applications with Cloudeka.
         url: https://www.dicoding.com/certificates/1OP854YE1PQK
@@ -300,25 +297,25 @@ params:
     enable: true
     # title: "Custom Name"
     items:
-      - title: Tixmov 
-          content: Fullstack Web Application for buy ticket movie online. This website is designed to help users buy movie tickets online.
-          image: /images/tixmov.png
-          featured:
-            name: Demo
-            link: http://tixmov.fajarwg.me/
-          badges:
-            - "NextJS"
-            - "Typescript"
-            - "Tailwind CSS"
-            - "Prisma ORM"
-            - "MongoDB"
-          links:
-            - icon: fab fa-github
-              url: https://github.com/FajarWG/TixMov-NexjsTS
-              newPage: true
+      - title: Tixmov
+        content: Fullstack Web Application for buy ticket movie online. This website is designed to help users buy movie tickets online.
+        image: /images/tixmov.png
+        featured:
+          name: Demo
+          link: http://tixmov.fajarwg.me/
+        badges:
+          - "NextJS"
+          - "Typescript"
+          - "Tailwind CSS"
+          - "Prisma ORM"
+          - "MongoDB"
+        links:
+          - icon: fab fa-github
+            url: https://github.com/FajarWG/TixMov-NexjsTS
+            newPage: true
 
       - title: My Codelabs
-        content: My-Codelabs website is a digital platform designed to help the Codelabs Division at Universitas Komputer Indonesia (UNIKOM) manage their activities. 
+        content: My-Codelabs website is a digital platform designed to help the Codelabs Division at Universitas Komputer Indonesia (UNIKOM) manage their activities.
         image: /images/mycodelabs.png
         featured:
           name: Demo
@@ -328,7 +325,7 @@ params:
           - "Javascript"
           - "NextJS"
           - "Typescript"
-          - "Styled Components" 
+          - "Styled Components"
         links:
           # - icon: fa fa-envelope
           #   url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
@@ -350,14 +347,14 @@ params:
           - HTML
           - JavaScript
           - React
-          - Cpanel 
+          - Cpanel
           - Styled Components
         # links:
         #   - icon: fab fa-github
         #     url: https://github.com/gurusabarish/converter
 
       - title: Web-Bitlabs
-        content: Bit-Labs is a website that provides the latest cryptocurrency prices. It allows users to track the current prices of various cryptocurrencies in real-time, such as Bitcoin, Ethereum, and Litecoin. 
+        content: Bit-Labs is a website that provides the latest cryptocurrency prices. It allows users to track the current prices of various cryptocurrencies in real-time, such as Bitcoin, Ethereum, and Litecoin.
         image: /images/bitlabs.png
         featured:
           name: Demo
@@ -365,7 +362,7 @@ params:
           newPage: true
         badges:
           - HTML
-          - CSS 
+          - CSS
           - JavaScript
           - Webpack
         links:
@@ -381,7 +378,7 @@ params:
           link: https://dapper-rolypoly-fb0e8b.netlify.app/
           newPage: true
         badges:
-          - HTML 
+          - HTML
           - JavaScript
           - CSS
           - NextJS
