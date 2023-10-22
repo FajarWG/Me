@@ -55,7 +55,7 @@ Menus:
 
 params:
   title: "Portofolio FajarWG"
-  description: Text about my cool site
+  description: Portofolio FajarWG
   # staticPath: ""  # The path to serve the static files from
   favicon: "/fav.png"
 
@@ -120,8 +120,8 @@ params:
     enable: true
     intro: "Hi, my name is"
     title: "Fajar Wahyu Gumelar."
-    subtitle: "Front-End Web Developer"
-    content: "A passionate web app developer. I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly with expertise in using HTML, CSS, JavaScript, React, NextJs, Tailwind CSS, and TypeScript."
+    subtitle: "Front-End Web Developer | UI/UX Designer"
+    content: "As a Front-end Web Developer, I am passionate about creating visually appealing and highly functional websites using modern web technologies such as HTML, CSS, JavaScript, React, Next.js, Tailwind CSS, and TypeScript. I also have a strong understanding of UI/UX design principles, which allows me to create intuitive and aesthetically pleasing interfaces that enhance the overall user experience."
     image: /images/me.png
     bottomImage:
       enable: true
@@ -272,6 +272,10 @@ params:
     enable: true
     title: "Achievements & Certifications"
     items:
+      - title: UI/UX Design Mastery
+        url: https://badgr.com/public/assertions/jRFThhxNRuiWjiY1gMaTkA?identity__email=fajar.10121242@mahasiswa.unikom.ac.id
+        content: UI/UX Design Mastery is a course that teaches you how to design user interfaces and user experiences for mobile apps and websites. You'll learn about the principles of good design, how to use tools like Sketch and Photoshop, and how to create wireframes and prototypes.
+
       - title: Top 100 Google Solutions Challenge 2023
         url: https://developers.google.com/community/gdsc-solution-challenge/winners?hl=id
         content: Build a solution to a local problem using Google technologies, in accordance with one or more of the United Nations 17 Sustainable Development Goals.
