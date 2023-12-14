@@ -74,7 +74,7 @@ params:
 
   theme:
     # disableThemeToggle: true
-    defaultTheme: "dark" # dark
+    defaultTheme: "light" # dark
 
   font:
     fontSize: 1rem # default: 1rem
@@ -121,7 +121,7 @@ params:
     intro: "Hi, my name is"
     title: "Fajar Wahyu Gumelar."
     subtitle: "Front-End Web Developer | UI/UX Designer"
-    content: "As a Front-end Web Developer, I am passionate about creating visually appealing and highly functional websites using modern web technologies such as HTML, CSS, JavaScript, React, Next.js, Tailwind CSS, and TypeScript. I also have a strong understanding of UI/UX design principles, which allows me to create intuitive and aesthetically pleasing interfaces that enhance the overall user experience."
+    content: "a Front-end Developer with a strong interest in UI/UX Design. Like solving the problem by combining that."
     image: /images/me.png
     bottomImage:
       enable: true
@@ -301,6 +301,15 @@ params:
     enable: true
     # title: "Custom Name"
     items:
+      - title: Lealy
+        content: Developed a comprehensive UI/UX Android app, Lealy, to address financial and investment challenges in Indonesia through a user-centered design approach.
+        image: /images/lealy.png
+        featured:
+          name: Demo
+          url: https://www.figma.com/proto/zvydjrZz0u6nbhaGdHJcAZ/Kelompok-17---Design-%26-Prototype?page-id=1589%3A6821&type=design&node-id=1784-8952&viewport=320%2C381%2C0.04&t=76nAOvFOwhdAswuk-1&scaling=scale-down&starting-point-node-id=1784%3A8972&show-proto-sidebar=1&mode=design
+        badges:
+          - "Figma"
+          - "Maze"
       - title: Tixmov
         content: Fullstack Web Application for buy ticket movie online. This website is designed to help users buy movie tickets online.
         image: /images/tixmov.png
